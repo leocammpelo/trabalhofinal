@@ -14,7 +14,7 @@ A empresa JP Móveis muito conhecida e tradicional no comércio de Lavras, que p
     <li> Commits devem ser claros e objetivos; </li>
     <li> Commits devem conter descrição do que foi adicionado, aterado ou excluido; </li>
     <li> Para cada tarefa deve ser criada a issue; </li>
-    <li> O desenvolvimento de cada tarefa será com base em sua issue, sempre atualizando com as tags: To do, In progesse e Done. </li>
+    <li> O desenvolvimento de cada tarefa será com base em sua issue, ou seja, para cada tarefa será criado uma branch nova e logo depois o merge para atualizar as novas informações.</li>
 </ul>
 
 
