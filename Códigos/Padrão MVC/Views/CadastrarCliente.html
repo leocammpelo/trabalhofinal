@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Cadastro Cliente</title>   
+    </head>
+<body>
+    <!-- Formulario -->
+    <h1>Cadastrar Cliente: </h1>
+    <form action="../Controllers/CadastrarCliente.php" method="POST">
+        Nome: <input type="text" placeholder="Nome do cliente" name="campoNome">
+        <br><br>
+        CPF: <input type="text" placeholder="Só números" name="campoCPF">
+        <br><br>
+        Cidade: <input type="text" name="campoCidade">
+        <br><br>
+        Estado: <input type="text" name="campoEstado">
+        <br><br>
+
+        <input type="submit" value="Cadastrar Cliente" >
+    </form>
+</body>
+
+</html>
