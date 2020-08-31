@@ -14,7 +14,7 @@ A empresa JP Móveis muito conhecida e tradicional no comércio de Lavras, que p
     <li> Commits devem ser claros e objetivos; </li>
     <li> Commits devem conter descrição do que foi adicionado, aterado ou excluido; </li>
     <li> Para cada tarefa deve ser criada a issue; </li>
-    <li> O desenvolvimento de cada tarefa será com base em sua issue, ou seja, para cada tarefa será criada uma nova branch e depois da moficação será feito o merge para atualizar as novas informações. Atualizando também a issue da tarefa com as terminologias To Do, Doing e Done</li>
+    <li> O desenvolvimento de cada tarefa será com base em sua issue, ou seja, para cada tarefa será criada uma nova branch e depois da moficação será feito o merge para atualizar as novas informações. Atualizando também a issue da tarefa com as labels To Do, Doing e Done para o progresso da tarefa. As issues vão ter labels RF e RNF para indentificar o tipo de requisito.</li>
 </ul>
 
 
